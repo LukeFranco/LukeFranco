@@ -4,7 +4,7 @@
 - 💞️ I’m currently learning Java, CSS and HTML and furthering my technical education. 
 - 📫 You can reach me at LRF2407@outlook.com or book an appointment below!
 
-To book an appointment for insurance & investing my calendly.com/lukefranco
+To book an appointment for insurance & investing or just to connect, here is my calendly.com/lukefranco
 
 <!---
 LukeFranco/LukeFranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
