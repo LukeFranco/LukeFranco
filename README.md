@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Luke and I am from Orlando, Fl.
 - 👀 I am a 26 years old and a Florida State University Economics Alumnus.
-- 📈 My programming skills include Java, Javascript, Python, HTML and CSS. 
-- 📫 Currently, I am an Agile business anaylst.
+- 📈 My programming skills include Java, Javascript, React, Python, HTML and CSS. 
+- 📫 Currently, I am a Tech Sales Representative.
 - 📚 In my free time, I like to analyze the financial markets. 
 - ✈️ Let's connect! Email me at LRF2407@outlook.com. 
 
