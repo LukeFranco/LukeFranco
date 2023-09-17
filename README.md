@@ -1,9 +1,11 @@
-- 👋 Hello, I'm Luke and I am from Orlando, Fl.
-- 👀 I am a 26 years old and a Florida State University Economics Alumnus.
-- 📈 My programming skills include Java, Javascript, React, Python, HTML and CSS. 
-- 📫 Currently, I am a Tech Sales Representative.
-- 📚 In my free time, I like to analyze the financial markets. 
-- ✈️ Let's connect! Email me at LRF2407@outlook.com. 
+- 👋 Hello, I'm Luke & I'm 26 years old
+- 👀 I am from Orlando, FL and I am an FSU Alumnus
+- 📔 My studies focused on Economics & Finance 
+- 📈 My tech stack is HTML, CSS, Java, Javascript
+- 💻 My key focus is React JS & building applications
+- 📫 Currently, I am a Tech Sales Representative
+- 📚 In my free time, I analyze the SP500, Gold and Oil Futures
+- ✈️ Let's connect! Email me at LRF2407@outlook.com 
 
 <!---
 LukeFranco/LukeFranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
