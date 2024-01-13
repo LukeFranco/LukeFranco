@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Luke & I'm 26 years old
+- 👋 Hello, I'm Luke 
 - 👀 I am from Orlando, FL and I am an FSU Alumnus
 - 📔 My studies focused on Economics & Finance 
 - 📈 My tech stack is HTML, CSS, Java, Javascript
